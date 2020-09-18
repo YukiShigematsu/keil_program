@@ -76,5 +76,8 @@ int main() {
 			led = 0x1;
 	  }
   	motor1 = 0;
+		//test
+		//koko
+		//lokoi
   }
 }
